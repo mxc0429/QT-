@@ -1,0 +1,1 @@
+-I"D:/OpenCV/opencv-3.4.6/modules/ts/include" -I"D:/OpenCV/opencv-3.4.6/modules/dnn/include" -I"D:/OpenCV/opencv-3.4.6/modules/imgcodecs/include" -I"D:/OpenCV/opencv-3.4.6/modules/videoio/include" -I"D:/OpenCV/opencv-3.4.6/modules/core/include" -I"D:/OpenCV/opencv-3.4.6/modules/imgproc/include" -I"D:/OpenCV/opencv-3.4.6/modules/highgui/include" -isystem D:/OpenCV/opencv_build

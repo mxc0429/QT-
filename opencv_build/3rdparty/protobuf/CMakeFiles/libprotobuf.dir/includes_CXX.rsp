@@ -1,0 +1,1 @@
+-isystem D:/OpenCV/opencv_build -isystem "D:/OpenCV/opencv-3.4.6/3rdparty/protobuf/src"

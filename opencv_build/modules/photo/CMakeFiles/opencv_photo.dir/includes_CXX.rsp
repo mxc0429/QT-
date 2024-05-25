@@ -1,0 +1,1 @@
+-I"D:/OpenCV/opencv-3.4.6/modules/photo/include" -ID:/OpenCV/opencv_build/modules/photo -I"D:/OpenCV/opencv-3.4.6/modules/core/include" -I"D:/OpenCV/opencv-3.4.6/modules/imgproc/include" -isystem D:/OpenCV/opencv_build

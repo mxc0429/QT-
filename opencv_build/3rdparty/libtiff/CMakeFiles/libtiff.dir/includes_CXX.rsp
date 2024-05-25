@@ -1,0 +1,1 @@
+-ID:/OpenCV/opencv_build/3rdparty/zlib -I"D:/OpenCV/opencv-3.4.6/3rdparty/zlib" -ID:/OpenCV/opencv_build/3rdparty/libtiff -I"D:/OpenCV/opencv-3.4.6/3rdparty/libtiff" -I"D:/OpenCV/opencv_build/3rdparty/libjpeg-turbo" -I"D:/OpenCV/opencv-3.4.6/3rdparty/libjpeg-turbo/src" -isystem D:/OpenCV/opencv_build

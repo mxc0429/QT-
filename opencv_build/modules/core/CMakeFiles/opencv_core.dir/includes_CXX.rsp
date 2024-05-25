@@ -1,0 +1,1 @@
+-I"D:/OpenCV/opencv-3.4.6/modules/core/include" -ID:/OpenCV/opencv_build/modules/core -I"D:/OpenCV/opencv-3.4.6/3rdparty/zlib" -ID:/OpenCV/opencv_build/3rdparty/zlib -I"D:/OpenCV/opencv-3.4.6/3rdparty/include/opencl/1.2" -isystem D:/OpenCV/opencv_build

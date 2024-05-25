@@ -1,0 +1,13 @@
+-ID:/OpenCV/opencv_build
+-ID:/OpenCV/opencv-3.4.6/modules/highgui
+-ID:/OpenCV/opencv_build/modules/highgui
+-D__OPENCV_BUILD=1
+-D_USE_MATH_DEFINES
+-D__STDC_CONSTANT_MACROS
+-D__STDC_LIMIT_MACROS
+-D__STDC_FORMAT_MACROS
+-DHAVE_WEBP
+-DWIN32
+-o
+D:/OpenCV/opencv_build/modules/highgui/src/moc_window_QT.cpp
+D:/OpenCV/opencv-3.4.6/modules/highgui/src/window_QT.h
